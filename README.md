@@ -3,7 +3,7 @@
 
 Data source: from data.world [City of Chicago, Beach Weather Stations - Automated Sensors](https://data.world/cityofchicago/beach-weather-stations-automated-sensors) 
 
-**Link to Tableau**: [dashboard](https://public.tableau.com/views/Firstrun_17146666701320/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+### Link to [Tableau dashboard](https://public.tableau.com/views/Firstrun_17146666701320/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
  
 **Motivation** for this project was to get some experience with real world sensor data. Especially data cleaning in Excel. And then start my first project in Tableau. 
 Data was cleaner than I hopped.  
